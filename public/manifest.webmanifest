@@ -1,0 +1,14 @@
+{
+  "name": "Orbis Gestão",
+  "short_name": "Orbis",
+  "description": "Gestão de estoque, ordens de serviço e faturamento.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f4f6fa",
+  "theme_color": "#111a2c",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
