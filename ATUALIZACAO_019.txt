@@ -1,0 +1,20 @@
+ATUALIZAÇÃO 019 — ACESSO AUTOMÁTICO DO PROPRIETÁRIO
+
+O que foi corrigido
+- Ao cadastrar uma empresa, informe também o nome e o e-mail do proprietário.
+- O sistema cria a empresa, a assinatura de teste e o convite de administrador juntos.
+- Ao finalizar, aparece um link para copiar e enviar ao cliente.
+- O cliente abre o link e define a própria senha.
+- Não é necessário criar usuário manualmente nem esperar e-mail do Supabase.
+
+Instalação
+1. No Supabase, abra SQL Editor.
+2. Cole e execute todo o arquivo supabase/019_company_owner_invites.sql uma única vez.
+3. Publique o código atualizado no GitHub/Cloudflare.
+
+Uso para cada novo cliente
+1. Entre no painel ER Creative e clique em Nova empresa.
+2. Preencha os dados da empresa, o nome e o e-mail do proprietário.
+3. Clique em Criar empresa e convite.
+4. Copie o link exibido e envie ao cliente por WhatsApp.
+5. O cliente abre o link, cria a senha e acessa como administrador somente a empresa dele.
