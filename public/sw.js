@@ -1,4 +1,4 @@
-const CACHE = "orbis-shell-v3";
+const CACHE = "orbis-shell-v4-db19";
 self.addEventListener("install", event => {
   event.waitUntil(caches.open(CACHE).then(async cache => {
     await cache.addAll(["/", "/favicon.svg", "/manifest.webmanifest"]);
