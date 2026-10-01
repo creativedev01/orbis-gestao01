@@ -12,7 +12,7 @@
 
 ## Antes de entregar
 
-1. Executar `setup.sql` e as SQLs 002 a 018, em ordem.
+1. Executar `setup.sql` e as SQLs 002 a 019, em ordem.
 2. Criar o proprietário e configurar as credenciais públicas do Supabase.
 3. Publicar o sistema e configurar as URLs permitidas de autenticação.
 4. Executar a Verificação da instalação em Configurações.
