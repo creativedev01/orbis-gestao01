@@ -53,4 +53,4 @@ Com Node.js 22 e pnpm instalados:
 ## Banco de dados
 
 O banco continua no Supabase atual. Não execute novamente as SQLs em um banco que
-já está na versão 18.
+já está na versão 19.
